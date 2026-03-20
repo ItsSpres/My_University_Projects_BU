@@ -1,5 +1,3 @@
-
-
 # Bellevue University Projects
 ## SOFTWARE DEVELOPMENT CLASSES
 #### CSD 320 - Programming with Java
@@ -24,16 +22,16 @@
 - [Tuple Project](https://github.com/ItsSpres/My_University_Projects_BU/blob/main/CSD205%20Python/TupleProject/tuple.py)
 #### CSD 200 - Foundation of Software Development
 - Bakery Design
-  <p align="center"><img src="https://itsspres.com/assets/img/IMG_3224.png" alt="Example1" width="auto" height="auto"></p>
+  <p align="center"><img src="https://itsspres.github.io/Ian-Spresney-Portfolio/assets/img/IMG_3224.png" alt="Example1" width="auto" height="auto"></p>
 
 - Redesign a form.
-  <p align="center"><img src="https://itsspres.com/assets/img/Component%205.svg" alt="Example1" width="auto" height="400"></p>
+  <p align="center"><img src="https://itsspres.github.io/Ian-Spresney-Portfolio/assets/img/Component%205.svg" alt="Example1" width="auto" height="400"></p>
 
 - Redesign a website with poor responsiveness.
-  <p align="center"><img src="https://itsspres.com/assets/img/Component%203.svg" alt="Example1" width="auto" height="auto"></p>
-  <p align="center"><img src="https://itsspres.com/assets/img/Component%204.svg" alt="Example1" width="auto" height="auto"></p>
+  <p align="center"><img src="https://itsspres.github.io/Ian-Spresney-Portfolio/assets/img/Component%203.svg" alt="Example1" width="auto" height="auto"></p>
+  <p align="center"><img src="https://itsspres.github.io/Ian-Spresney-Portfolio/assets/img/Component%204.svg" alt="Example1" width="auto" height="auto"></p>
 
 - Project: Pets-R-Us needs a feature added. Design and prototype the website.
   > Used Figma for designing and prototyping.  Please disable Figma UI for a better viewing experience. Also, use a computer.
   > Prototype link is [here](https://www.figma.com/file/E4oJW6XtbVFpFvx74rhAk5/Pets-R-Us-Prototype?type=design&node-id=0%3A1&mode=design&t=ht28qNmws7oOVpIZ-1).
- <p align="center"><img src="https://itsspres.com/assets/img/CSD200Proj.png" alt="Example1" width="auto" height="400"></p>
+ <p align="center"><img src="https://itsspres.github.io/Ian-Spresney-Portfolio/assets/img/CSD200Proj.png" alt="Example1" width="auto" height="400"></p>
